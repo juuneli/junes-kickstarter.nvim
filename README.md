@@ -1,4 +1,4 @@
-# Junes Neovim Configuration
+# June's Neovim Configuration
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
