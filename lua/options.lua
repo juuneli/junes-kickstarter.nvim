@@ -1,5 +1,8 @@
 -- set some nice chonky keybinds and features :)
 
+-- set <Space> as leader
+vim.g.mapleader = ' '
+
 -- set chonky cursor for everything
 vim.opt.guicursor = ""
 
@@ -39,3 +42,5 @@ vim.opt.isfname:append("@-@")
 vim.opt.updatetime = 50
 
 vim.opt.colorcolumn = "80"
+
+vim.cmd("set autochdir")

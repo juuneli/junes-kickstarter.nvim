@@ -82,5 +82,9 @@ require('lazy').setup({
         'mbbill/undotree'
     },
 
+    {
+        'akinsho/toggleterm.nvim', version = "*", config = true
+    },
+
     -- { import = 'yune.plugins' },
 }, {})
